@@ -19,7 +19,11 @@ if (localData) {
   bookList = JSON.parse(localData);
 }
 
-addButton.addEventListener('click', () => addBook(bookNameInput.value, bookAuthorInput.value, bookList));
+addButton.addEventListener('click', () => {
+  addBook(bookNameInput.value, bookAuthorInput.value, bookList);
+  loadBooks(bookList);
+});
+
 listLink.addEventListener('click', () => {
   bookListSection.style.display = 'block';
   formContainer.style.display = 'none';
