@@ -75,7 +75,7 @@
 ## 🚀 Live Demo <a name="live-demo"></a>
 
 
-- [Live Demo Link](https://yacoubou-seidou.github.io/awesome_book/)
+- [Live Demo Link](https://yacoubou-seidou.github.io/awesome_books_ES6/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -101,7 +101,7 @@ Clone this repository to your desired folder:
 
 ```sh
   cd my-folder
-  git clone https://github.com/Yacoubou-seidou/awesome_book.git
+  git clone https://github.com/Yacoubou-seidou/awesome_books_ES6.git
 ```
 
 ### Usage
@@ -142,7 +142,7 @@ To run the project, execute the following command:
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/Yacoubou-seidou/awesome_book/issues).
+Feel free to check the [issues page](https://github.com/Yacoubou-seidou/awesome_books_ES6/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -166,6 +166,6 @@ I would like to thank Microverse staff for their support
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](https://github.com/Yacoubou-seidou/awesome_book/blob/master/MIT.md) licensed.
+This project is [MIT](./MIT.md) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
